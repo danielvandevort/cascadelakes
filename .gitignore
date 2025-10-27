@@ -1,17 +1,16 @@
-# Default ignored files
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# Local workspace
 /shelf/
 /workspace.xml
-# Datasource local storage ignored files
+
+# Local datasource files
 /dataSources/
 /dataSources.local.xml
-/.idea
-# Editor-based HTTP Client requests
+
+# HTTP Client requests
 /httpRequests/
-/.idea/copilot.data.migration.agent.xml
-/.idea/workspace.xml
-/.idea/vcs.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/copilot.data.migration.ask.xml
-/.idea/material_theme_project_new.xml
-/.idea/misc.xml
-/.idea/copilot.data.migration.edit.xml
+
